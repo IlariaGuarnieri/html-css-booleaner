@@ -13,3 +13,23 @@ div{
   color: blue;
  
 }
+#sottolinea{
+  background-color:#FFFF02 ;
+}
+
+thead{
+  background-color:#20A9E5;
+  text-align: left;
+  color: white;
+}
+
+table{
+  border-collapse: collapse;
+}
+#riga1{
+  width: 200px;
+}
+
+.riga3{
+  background-color: #B1E5F2;
+}
