@@ -1,0 +1,15 @@
+
+
+div{
+  background-color:#4DA0FF;
+  background-image: url(img/pattern.png);
+  background-size:
+  300px 100px;
+}
+.grigio{
+  color:#858585;
+}
+#ciao{
+  color: blue;
+ 
+}
