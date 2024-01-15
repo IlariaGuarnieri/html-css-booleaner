@@ -5,12 +5,28 @@
   300px 100px;
 }
 
+#logo{
+  height:40%;
+  margin-top: 30px;
+  width: 13%;
+}
+
 .grigio{
   color:#858585;
 }
 
-#ciao{
-  color: blue;
+h1{
+  line-height: 40px;
+}
+
+section{
+  line-height: 2px;
+  margin-bottom: 2px;
+}
+
+.testo-piccolo{
+  font-size: 13px;
+  line-height: 2px;
 }
 
 #sottolinea{
